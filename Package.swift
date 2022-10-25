@@ -21,7 +21,7 @@ let package = Package(
         .binaryTarget(
             name: "SoriLiveKitSDK",
             url: "https://github.com/ben-spoonradio/sori-sdk/releases/download/2.4.0(119)/SoriLiveKitSDK.xcframework.zip",
-            checksum: "a56a27eaf480700b49db75bc447c9725965cf1cefdca7ae36b3de89236bd201a"
+            checksum: "f12dd6e36bf70fec44e7ed8e9ce67224d9239b75c0a54799efc86f5c6d2dbf42"
         ),
 
 
