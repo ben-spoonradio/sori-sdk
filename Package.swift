@@ -20,8 +20,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "SoriLiveKitSDK",
-            url: "https://github.com/ben-spoonradio/sori-sdk/releases/download/2.4.0(119)/SoriLiveKitSDK.xcframework.zip",
-            checksum: "f12dd6e36bf70fec44e7ed8e9ce67224d9239b75c0a54799efc86f5c6d2dbf42"
+            url: "https://github.com/ben-spoonradio/sori-sdk/releases/download/2.4.0(120)/SoriLiveKitSDK.xcframework.zip",
+            checksum: "ed6c51bb2658896291a7aa18128e87d438edcf58e00de182f221d63e146d477a"
         ),
 
 
